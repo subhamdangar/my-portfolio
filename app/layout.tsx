@@ -16,7 +16,7 @@ const jetbrainsMono = JetBrains_Mono({
 
 // ===== UPDATE YOUR SEO METADATA HERE =====
 export const metadata: Metadata = {
-  title: "Subham Dangar | AI/ML Engineer & Data Scientist",
+  title: "Subham Dangar | Data Science & AI Student",
   description:
     "Portfolio of Subham Dangar — AI/ML Engineer specializing in Deep Learning, RAG Systems, Agentic AI, and Distributed Computing. MSc Data Science & AI.",
   keywords: [
@@ -35,14 +35,14 @@ export const metadata: Metadata = {
     type: "website",
     locale: "en_US",
     url: "https://subhamdangar.vercel.app", // ===== REPLACE WITH YOUR DEPLOYED URL =====
-    title: "Subham Dangar | AI/ML Engineer & Data Scientist",
+    title: "Subham Dangar | Data Science & AI Student",
     description:
       "Portfolio of Subham Dangar — AI/ML Engineer specializing in Deep Learning, RAG Systems, Agentic AI, and Distributed Computing.",
     siteName: "Subham Dangar Portfolio",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Subham Dangar | AI/ML Engineer & Data Scientist",
+    title: "Subham Dangar | Data Science & AI Student",
     description:
       "AI/ML Engineer specializing in Deep Learning, RAG Systems, Agentic AI, and Distributed Computing.",
   },
