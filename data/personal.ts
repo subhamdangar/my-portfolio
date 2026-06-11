@@ -13,7 +13,8 @@ export const personalInfo = {
   email: "dangarsubham@gmail.com",
   github: "https://github.com/subhamdangar",
   linkedin: "https://www.linkedin.com/in/subham-dangar-522866377/",
-  resumeUrl: "/resume.pdf",
+  // resumeUrl: "/resume.pdf",
+  resumeUrl: `/resume.pdf?v=${process.env.NEXT_PUBLIC_BUILD_ID}`,
 
   // ===== UPDATE YOUR BIO PARAGRAPHS =====
   bio: [
