@@ -14,7 +14,8 @@ export const personalInfo = {
   github: "https://github.com/subhamdangar",
   linkedin: "https://www.linkedin.com/in/subham-dangar-522866377/",
   // resumeUrl: "/resume.pdf",
-  resumeUrl: `/resume.pdf?v=${process.env.NEXT_PUBLIC_BUILD_ID}`,
+  // resumeUrl: `/resume.pdf?v=${process.env.NEXT_PUBLIC_BUILD_ID}`,
+  resumeUrl: `/resume.pdf?v=${process.env.NEXT_PUBLIC_VERCEL_GIT_COMMIT_SHA}`,
 
   // ===== UPDATE YOUR BIO PARAGRAPHS =====
   bio: [
